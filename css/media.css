@@ -1,0 +1,25 @@
+@media(max-width: 1800px){
+	.game-rank-item{margin-top:470px;}
+	.banner-text-box{top:25%;}
+}
+@media(max-width: 1700px){
+	.game-rank-item{margin-top:450px;}
+	.banner-text-box{top:20%;}
+}
+@media(max-width: 1600px){
+	.game-rank-item{margin-top:430px;}
+}
+@media(max-width: 1500px){
+	.game-rank-item{margin-top:410px;}
+	.banner-text-box{top:18%; width: 80%;}
+}
+@media(max-width: 1400px){
+	.game-rank-item{margin-top:380px;}
+	.banner-text-box{top:15%; width: 80%;}
+}
+@media(max-width: 1300px){
+	.game-rank-item{margin-top:360px;}
+}
+@media(max-width: 1200px){
+	.game-rank-item{margin-top:330px;}
+}
